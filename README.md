@@ -1,4 +1,4 @@
-# Hümeyra Karakılınç | Kişisel Portföy
+| Kişisel Portföy
 
 Merhaba! Ben Hümeyra Karakılınç. Aydın Adnan Menderes Üniversitesi
 Yönetim Bilişim Sistemleri öğrencisi ve Barvion'da Jr. Software
